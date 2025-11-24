@@ -3,6 +3,8 @@
 
 import PackageDescription
 
+let packageVersion = "1.0.0"
+
 let package = Package(
     name: "DialKit",
     platforms: [
