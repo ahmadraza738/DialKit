@@ -20,7 +20,7 @@ let package = Package(
         .binaryTarget(
             name: "DialKit",
             url: "https://github.com/ahmadraza738/DialKit/releases/download/1.0.0/DialKit.xcframework.zip",
-            checksum: "8a19798ecde3eef8c4bd4dc805325ffc56df44a0eb6d65e549f35fdf8bc12841"
+            checksum: "39cb6005c75686cfdc0b52095c86348b6aefb342de2e864b66e0672d8cc6e1f6"
         )
     ]
 )
