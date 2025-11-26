@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let packageVersion = "1.0.1"
+let packageVersion = "1.0.2"
 
 let package = Package(
     name: "DialKit",
@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DialKit",
-            url: "https://github.com/ahmadraza738/DialKit/releases/download/1.0.1/DialKit.xcframework.zip",
-            checksum: "fbeb9bb098ec9225f3fd767ab890d40fd1fd2275627097cb702eadb1f4e9ea1e"
+            url: "https://github.com/ahmadraza738/DialKit/releases/download/1.0.2/DialKit.xcframework.zip",
+            checksum: "07284a254387d2558e941ebb4725a25b9e2fee9ed6ff481ba51aa95590693efd"
         )
     ]
 )
