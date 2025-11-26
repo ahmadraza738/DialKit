@@ -231,6 +231,6 @@ This documentation provides a comprehensive guide for integrating and customizin
 ## Mannual Integration
 
 Download XCFramework:
-https://github.com/ahmadraza738/DialKit/releases/download/1.0.0/DialKit.xcframework.zip
+https://github.com/ahmadraza738/DialKit/releases/download/1.0.1/DialKit.xcframework.zip
 
-Current Version: 1.0.0
+Current Version: 1.0.1
